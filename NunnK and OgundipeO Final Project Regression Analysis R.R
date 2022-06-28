@@ -9,7 +9,7 @@ attach(default.data)
 dim(default.data)
 default.data
 
-# Code stolen from https://rpubs.com/SameerMathur/LR_CreditCardDefault_Taiwan
+# Code replicated from https://rpubs.com/SameerMathur/LR_CreditCardDefault_Taiwan
 # First, we are going to run logistic regression based on the first couple of variables for simplicity sake, including:
 # Afterwards, we will run a logistic regression model with all of the variables in the data set.
 # After running the first and second models, we will run a logistic regression model on a new set of data and compare the two data sets
